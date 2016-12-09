@@ -1,2 +1,2 @@
 # Teach-Me
-To learn coe
+To learn code
